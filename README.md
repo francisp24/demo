@@ -1,3 +1,3 @@
 #Demo Project Readme
 
-This is a simple Readme.md file.
+This is a simple readme.md file.
